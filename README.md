@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0Dark-Ninja0
+- 👋 Hi, I’m @Dark-Ninja
 - 👀 I’m interested in some stuff like Guitar, Treks, Drawing and sketches, Learning new stuff, swimming, etc.
 - 🌱 I’m currently learning Computer Science.
 - 💞️ I’m looking to collaborate on Software developments and even Web development.
